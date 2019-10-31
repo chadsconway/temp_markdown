@@ -6,7 +6,7 @@
 
 for npm:
 
-https://img.shields.io/badge/github/v/:npm
+https://img.shields.io/badge/license-MIT-green
 
 Copyright [2019][chad conway]
 
