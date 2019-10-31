@@ -1,0 +1,27 @@
+{
+  "name": "temp_markdown",
+  "version": "1.0.0",
+  "description": "temporary markdown github ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadsconway/temp_markdown.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "npm"
+  ],
+  "author": "Chad Conway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadsconway/temp_markdown/issues"
+  },
+  "homepage": "https://github.com/chadsconway/temp_markdown#readme",
+  "dependencies": {
+    "gh-badges": "^2.2.1"
+  }
+}
